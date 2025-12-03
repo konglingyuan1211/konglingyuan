@@ -1,0 +1,1 @@
+protoc --go_out=dns360protocol/ qdns_light_protocol/cdns.proto
